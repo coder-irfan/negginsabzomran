@@ -123,10 +123,10 @@ function Footer() {
                 <li className="flex items-center gap-2">
                   <FaMailBulk className="lg:text-lg text-colors-thirdBg" />
                   <a
-                    href="mailto:info@negginsabzomran.com"
+                    href="mailto:info@negginsabz.com"
                     className="text-sm md:text-base hover:text-colors-secondTextColor transition-colors duration-300"
                   >
-                    info@negginsabzomran.com
+                    info@negginsabz.com
                   </a>
                 </li>
                 <li className="flex items-center gap-2">

@@ -176,7 +176,7 @@ function Header() {
 
                   <div className="md:hidden flex flex-wrap justify-center items-center gap-2 lg:gap-4 text-xl md:text-2xl xl:text-3xl ">
                     <a
-                      href="https://www.instagram.com/negginsabzomran"
+                      href="https://www.instagram.com/negginsabz"
                       className="media-link"
                       target="_blank"
                     >

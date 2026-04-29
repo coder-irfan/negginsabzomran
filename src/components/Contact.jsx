@@ -109,10 +109,10 @@ function Contact() {
                     <div className="">
                       <h4 className="font-medium">Email</h4>
                       <a
-                        href="mailto:info@negginsabzomran.com"
+                        href="mailto:info@negginsabz.com"
                         className="text-sm md:text-base hover:text-colors-secondTextColor transition-colors duration-300"
                       >
-                        info@negginsabzomran.com
+                        info@negginsabz.com
                       </a>
                     </div>
                   </div>
