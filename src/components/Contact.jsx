@@ -5,6 +5,10 @@ import {
   FaPhone,
   FaSearchLocation,
   FaMailBulk,
+  FaInstagram,
+  FaFacebook,
+  FaYoutube,
+  FaTelegram,
 } from "react-icons/fa";
 
 function Contact() {
@@ -115,6 +119,36 @@ function Contact() {
                         info@negginsabz.com
                       </a>
                     </div>
+                  </div>
+                  <div className="flex flex-wrap gap-2 lg:gap-4 text-xl lg:text-2xl">
+                    <a
+                      href="https://www.instagram.com/negginsabz"
+                      className="media-link"
+                      target="_blank"
+                    >
+                      <FaInstagram />
+                    </a>
+                    <a
+                      href="https://www.youtube.com/"
+                      className="media-link"
+                      target="_blank"
+                    >
+                      <FaYoutube />
+                    </a>
+                    <a
+                      href="https://www.facebook.com/NegginSabzOmran/"
+                      className="media-link"
+                      target="_blank"
+                    >
+                      <FaFacebook />
+                    </a>
+                    <a
+                      href="https://telegram.com/"
+                      className="media-link"
+                      target="_blank"
+                    >
+                      <FaTelegram />
+                    </a>
                   </div>
                 </div>
               </div>

@@ -24,7 +24,7 @@ function Location() {
 
         {/* Map */}
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d11322.519941066252!2d69.12114430406437!3d34.503197156979084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z2q_ZiNmE2KfbjNuMINiv2YjYp9iu2KfZhtmH!5e0!3m2!1sen!2s!4v1777473537195!5m2!1sen!2s"
+          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.833703526224!2d69.1151250757361!3d34.50709997298907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzI1LjYiTiA2OcKwMDcnMDMuNyJF!5e0!3m2!1sen!2s!4v1777540938086!5m2!1sen!2s"
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           allowFullScreen
